@@ -1,0 +1,27 @@
+{
+    "name": "Guojing Laugh",
+    "description": "Guojing Personal Picture",
+    "image": "https://raw.githubusercontent.com/agegr/FtmNFT/master/images/0.jpg",
+    "attributes": [
+        {
+            "trait_type": "health",
+            "value": 10
+        },
+        {
+            "trait_type": "power",
+            "value": 20
+        },
+        {
+            "trait_type": "magic",
+            "value": 30
+        },
+        {
+            "trait_type": "exp",
+            "value": 40
+        },
+        {
+            "trait_type": "lv",
+            "value": "SS"
+        }
+    ]
+}
